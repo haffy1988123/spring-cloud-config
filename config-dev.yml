@@ -1,1 +1,2 @@
-dev: dev
+config:
+ info: i am dev
