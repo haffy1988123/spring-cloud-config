@@ -1,1 +1,2 @@
-prod: prod
+config:
+ info: i am prod
